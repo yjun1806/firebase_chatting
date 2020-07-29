@@ -7,13 +7,17 @@ Firebase의 RealTimeDatabase를 이용하여 만든 안드로이드 채팅 어�
 2. 원하는 회원가 일대일 채팅이 가능합니다.
 3. 원하는 대상을 초대하여 그룹채팅이 가능합니다.
 
+
 ## 사용기술
 - Firebase
 - RecyclerView
 
+
 ## 영상
 
-[ 추후 추가 예정 ]
+[![영상](http://img.youtube.com/vi/TJxxp3F3dA8/0.jpg)](https://youtu.be/TJxxp3F3dA8 "영상")
+
+위의 이미지를 클릭하시면 영상을 보실 수 있습니다.
 
 
 ## 스크린샷 및 상세 설명
